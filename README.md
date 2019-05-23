@@ -11,7 +11,8 @@
 [![Build Status](https://travis-ci.org/YsoSirius/windfarmGA.svg?branch=master)](https://travis-ci.org/YsoSirius/windfarmGA)
 [![codecov](https://codecov.io/gh/YsoSirius/windfarmGA/branch/master/graph/badge.svg)](https://codecov.io/gh/YsoSirius/windfarmGA)
 
-
+# Fork details
+This fork is from YsoSirius/windfarmGA and aims to add project economic modelling to the existing feature set, which is currently focussed on maximising annual energy yield by optimising the wind farm layout. My aim is to maximise project net present value (NPV) instead through the optimisation of discounted energy revenue against discounted capital and operational expenditure.
 
 Genetic algorithm to optimize the layout of windfarms.
 The package is hosted on CRAN and can be found at https://CRAN.R-project.org/package=windfarmGA
